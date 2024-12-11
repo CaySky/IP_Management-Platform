@@ -1,6 +1,6 @@
 # IP Management Platform
 
-一个现代化的IP地址管理平台，支持IP地址的录入、管理、分配和追踪。
+一个现代化的IP地址管理平台，支持IP地址的录入、管理、分配和追踪,全部采用Ai来进行生成的，使用请须知。
 
 [English](./README_EN.md) | 简体中文
 
