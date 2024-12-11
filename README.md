@@ -29,7 +29,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/ip-management-platform.git
+git clone https://github.com/CaySky/IP_Management-Platform.git
 
 # 进入项目目录
 cd ip-management-platform
